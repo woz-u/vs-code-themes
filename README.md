@@ -6,7 +6,13 @@ This repo contains two themes using Woz-U official colors. One `light theme` and
 
 ### 1. Download
 
-To install the theme extension first open the terminal and navigate to `<user home>/.vscode/extensions`. Once inside this location, you can then clone this repo with
+To install the theme extension first open the terminal and navigate to `<user home>/.vscode/extensions`. Extensions are installed in your extensions folders. Depending on your platform, the global location is in the following folders:
+
+* Windows: `%USERPROFILE%\.vscode\extensions`
+* Mac: `~/.vscode/extensions`
+* Linux: `~/.vscode/extensions`
+
+Once inside this location, you can then clone this repo directly to your `extensions` folder using the command directly below.
 
 ```text
 git clone https://github.com/codercamps/vs-code-themes.git
@@ -14,7 +20,7 @@ git clone https://github.com/codercamps/vs-code-themes.git
 
 ### 2. Reload VS Code
 
-Once the repo has been cloned if you have an instance of VS Code already open use the shortcut `Ctrl + Shift + P (Mac: Command + Shift + P)` and enter `>reload` to reload that instance of VS Code.
+Once the repo has been cloned if you have an instance of VS Code already open use the shortcut `Ctrl + Shift + P (Mac: Command + Shift + P)` to open the command palette and type `>reload` followed by `enter` to reload that instance of VS Code.
 
 ### 3. Choose Theme
 
