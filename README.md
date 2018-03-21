@@ -1,6 +1,4 @@
-# README
-
-## Woz-U Themes for Visual Studio Code
+# Woz-U Themes for Visual Studio Code
 
 This repo contains two themes using Woz-U official colors. One `light theme` and one `dark theme` are both contained in the themes folder. To install the theme follow the steps below.
 
@@ -28,6 +26,9 @@ Once VS Code has reopened use the same shortcut `Ctrl + Shift + P (Mac: Command 
 
 ### 4. Contribute
 
-Read the file named `vsc-extension-quickstart.md` for more info on making changes to the themes.
+Read the file named `vsc-extension-quickstart.md` for more info on making changes to the themes. Keep in mind a few things...
 
-**Enjoy!**
+* If you directly edit the copy of the theme inside your `.vscode\extension` folder the next time you reload vs code the theme will update.
+* Clone a new copy of the repo in a different location for editing the themes, then run the app with `F5` to launch a sandboxed instance of vs code which you can use `Ctrl + R` to reload.
+
+**Happy Coding!**
