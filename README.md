@@ -2,6 +2,14 @@
 
 This repo contains two themes using Woz-U official colors. One `light theme` and one `dark theme` are both contained in the themes folder. To install the theme follow the steps below.
 
+## Light Theme:
+
+![Light Theme](screenshots/light-theme.png)
+
+## Dark Theme:
+
+![Dark Theme](screenshots/dark-theme.png)
+
 ### 1. Download
 
 To install the theme extension first open the terminal and navigate to `<user home>/.vscode/extensions`. Extensions are installed in your extensions folders. Depending on your platform, the global location is in the following folders:
