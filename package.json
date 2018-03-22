@@ -4,6 +4,10 @@
 	"description": "Two Woz-U color themes. One light and one dark.",
 	"version": "0.0.1",
 	"publisher": "Woz-U Curriculum Team",
+	"repository": {
+		"url": "https://github.com/codercamps/vs-code-themes"
+	},
+	"icon": "./screenshots/Woz-U-Squared.png",
 	"engines": {
 		"vscode": "^1.21.0"
 	},

@@ -4,11 +4,11 @@ This repo contains two themes using Woz-U official colors. One `light theme` and
 
 ## Light Theme:
 
-![Light Theme](screenshots/light-theme.png)
+![Light Theme](https://github.com/codercamps/vs-code-themes/blob/master/screenshots/light-theme.png?raw=true)
 
 ## Dark Theme:
 
-![Dark Theme](screenshots/dark-theme.png)
+![Dark Theme](https://raw.githubusercontent.com/codercamps/vs-code-themes/master/screenshots/dark-theme.png)
 
 ### 1. Download
 
@@ -38,5 +38,6 @@ Read the file named `vsc-extension-quickstart.md` for more info on making change
 
 * If you directly edit the copy of the theme inside your `.vscode\extension` folder the next time you reload vs code the theme will update.
 * Clone a new copy of the repo in a different location for editing the themes, then run the app with `F5` to launch a sandboxed instance of vs code which you can use `Ctrl + R` to reload.
+* For color theme reference visit the [VS Code Docs](https://code.visualstudio.com/docs/getstarted/theme-color-reference)
 
 **Happy Coding!**
