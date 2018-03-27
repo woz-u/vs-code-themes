@@ -1,6 +1,6 @@
 # Woz-U Themes for Visual Studio Code
 
-This repo contains two themes using Woz-U official colors. One `light theme` and one `dark theme` are both contained in the themes folder. To install the theme follow the steps below.
+This repo contains two themes using Woz-U official colors. One `light theme` and one `dark theme` are both contained in the themes folder. To install the theme using Visual Studio Code click `install`.
 
 ## Light Theme:
 
@@ -9,6 +9,14 @@ This repo contains two themes using Woz-U official colors. One `light theme` and
 ## Dark Theme:
 
 ![Dark Theme](https://raw.githubusercontent.com/codercamps/vs-code-themes/master/screenshots/dark-theme.png)
+
+---
+
+## How to Contribute
+
+If you would like to help make these themes better you can follow the instructions below to install this theme through github.
+
+[Woz-U Themes Github](https://github.com/codercamps/vs-code-themes)
 
 ### 1. Download
 
