@@ -1,29 +1,31 @@
 {
-	"name": "woz-u-themes",
-	"displayName": "Woz-U Themes",
-	"description": "Two Woz-U color themes. One light and one dark.",
-	"version": "0.0.1",
-	"publisher": "woz-u",
-	"repository": {
-		"url": "https://github.com/codercamps/vs-code-themes"
-	},
-	"icon": "Woz-U-Squared.png",
-	"engines": {
-		"vscode": "^1.21.0"
-	},
-	"categories": ["Themes"],
-	"contributes": {
-		"themes": [
-			{
-				"label": "Woz-U Dark Theme",
-				"uiTheme": "vs-dark",
-				"path": "./themes/Woz-U Dark Theme-color-theme.json"
-			},
-			{
-				"label": "Woz-U Light Theme",
-				"uiTheme": "vs",
-				"path": "./themes/Woz-U Light Theme-color-theme.json"
-			}
-		]
-	}
+    "name": "woz-u-themes",
+    "displayName": "Woz-U Themes",
+    "description": "Two Woz-U color themes. One light and one dark.",
+    "version": "0.0.2",
+    "publisher": "woz-u",
+    "repository": {
+        "url": "https://github.com/codercamps/vs-code-themes"
+    },
+    "icon": "Woz-U-Squared.png",
+    "engines": {
+        "vscode": "^1.21.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Woz-U Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Woz-U Dark Theme-color-theme.json"
+            },
+            {
+                "label": "Woz-U Light Theme",
+                "uiTheme": "vs",
+                "path": "./themes/Woz-U Light Theme-color-theme.json"
+            }
+        ]
+    }
 }
