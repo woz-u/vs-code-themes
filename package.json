@@ -2,7 +2,7 @@
     "name": "woz-u-themes",
     "displayName": "Woz-U Themes",
     "description": "Two Woz-U color themes. One light and one dark.",
-    "version": "0.0.2",
+    "version": "0.1.0",
     "publisher": "woz-u",
     "repository": {
         "url": "https://github.com/codercamps/vs-code-themes"
